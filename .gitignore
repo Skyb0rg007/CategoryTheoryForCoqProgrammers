@@ -1,0 +1,16 @@
+Makefile
+/CoqMakefile
+/CoqMakefile.conf
+/.vimrc
+
+*.d
+*.aux
+*.glob
+*.vo
+*.vos
+*.vok
+*.cmi
+*.cmx
+*.cmxs
+*.o
+.coq-native

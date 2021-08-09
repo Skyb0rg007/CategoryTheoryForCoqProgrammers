@@ -1,0 +1,20 @@
+src/Common/Category.v
+src/Common/Opposite.v
+src/Common/Functor.v
+src/Common/Isomorphism.v
+src/Common/Terminal.v
+
+src/Challenges/Chapter1.v
+src/Challenges/Chapter2.v
+-I src/Challenges
+src/Challenges/Chapter2_Impl.mli
+src/Challenges/Chapter2_Impl.ml
+src/Challenges/Chapter2_Test.ml
+src/Challenges/Chapter3.v
+src/Challenges/Chapter4.v
+src/Challenges/Chapter5.v
+src/Challenges/Chapter6.v
+src/Challenges/Chapter7.v
+src/Challenges/Chapter8.v
+
+-R src CategoryTheory
